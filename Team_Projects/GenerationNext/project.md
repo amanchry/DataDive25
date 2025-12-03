@@ -20,6 +20,7 @@ Use the **visualization** to shared graphs and visualizations as candidates for 
 - Jabari Grubb
 - Chantal Murdock
 - Layne Morrison
+- Rolf Hendriks
 
 ## Challenge Category Area
 
