@@ -7,3 +7,20 @@ Use the **data** folder to upload datasets and share processed data with distill
 
 ### visualizations
 Use the **visualization** to shared graphs and visualizations as candidates for the presentation. Tip: use matplotlib's savefig to share compelling visualizations if using matplotlib.
+
+## Team Members
+
+- Priya Setharaman
+- Laurentia Marschoun
+- Toure Sidy
+- Anna Kim
+- Diana Finegold
+- Henry Ham
+- Nisso Hamralizoda
+- Jabari Grubb
+- Chantal Murdock
+- Layne Morrison
+
+## Challenge Category Area
+
+Jobs and Youth: Exploring the future of education & jobs
